@@ -1,0 +1,7 @@
+
+.DS_Store
+.ipynb_checkpoints/data_preprocess-checkpoint.ipynb
+.ipynb_checkpoints/poetry_data_summary-checkpoint.ipynb
+.ipynb_checkpoints/poetry_wordvec_model-checkpoint.ipynb
+.ipynb_checkpoints/predict-checkpoint.ipynb
+.ipynb_checkpoints/train-checkpoint.ipynb

@@ -1,0 +1,60 @@
+,id,original_news,tokenized_news,summary
+0,1,"CHINA DAILY SAYS VERMIN EAT 7-12 PCT GRAIN STOCKS
+  A survey of 19 provinces and seven cities
+  showed vermin consume between seven and 12 pct of China's grain
+  stocks, the China Daily said.
+      It also said that each year 1.575 mln tonnes, or 25 pct, of
+  China's fruit output are left to rot, and 2.1 mln tonnes, or up
+  to 30 pct, of its vegetables. The paper blamed the waste on
+  inadequate storage and bad preservation methods.
+      It said the government had launched a national programme to
+  reduce waste, calling for improved technology in storage and
+  preservation, and greater production of additives. The paper
+  gave no further details.
+  
+
+","{'input_ids': [0, 3764, 16712, 9036, 24519, 29391, 104, 37616, 24765, 381, 2571, 262, 12, 1092, 221, 7164, 272, 4396, 2444, 4062, 13181, 104, 50118, 1437, 83, 2658, 9, 753, 10453, 8, 707, 1947, 50118, 1437, 969, 4342, 4691, 14623, 227, 707, 8, 316, 181, 3894, 9, 436, 18, 10924, 50118, 1437, 1815, 6, 5, 436, 1681, 26, 4, 50118, 1437, 1437, 1437, 1437, 1437, 85, 67, 26, 14, 349, 76, 112, 4, 28839, 475, 8502, 5657, 6, 50, 564, 181, 3894, 6, 9, 50118, 1437, 436, 18, 6231, 4195, 32, 314, 7, 13351, 6, 8, 132, 4, 134, 475, 8502, 5657, 6, 50, 62, 50118, 1437, 7, 389, 181, 3894, 6, 9, 63, 8942, 4, 20, 2225, 6102, 5, 3844, 15, 50118, 1437, 15650, 3521, 8, 1099, 18498, 6448, 4, 50118, 1437, 1437, 1437, 1437, 1437, 85, 26, 5, 168, 56, 1660, 10, 632, 3020, 7, 50118, 1437, 1888, 3844, 6, 1765, 13, 2782, 806, 11, 3521, 8, 50118, 1437, 18498, 6, 8, 2388, 931, 9, 36254, 4, 20, 2225, 50118, 1437, 851, 117, 617, 1254, 4, 50118, 1437, 1437, 50140, 2], 'attention_mask': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}", Survey of 19 provinces and seven cities shows vermin consume 7-12 pct of China's grain stocks . China Daily says 25% of fruit output is left to rot each year . Government launches national programme to reduce waste .
+1,1,"JAPAN TO REVISE LONG-TERM ENERGY DEMAND DOWNWARDS
+  The Ministry of International Trade and
+  Industry (MITI) will revise its long-term energy supply/demand
+  outlook by August to meet a forecast downtrend in Japanese
+  energy demand, ministry officials said.
+      MITI is expected to lower the projection for primary energy
+  supplies in the year 2000 to 550 mln kilolitres (kl) from 600
+  mln, they said.
+      The decision follows the emergence of structural changes in
+  Japanese industry following the rise in the value of the yen
+  and a decline in domestic electric power demand.
+      MITI is planning to work out a revised energy supply/demand
+  outlook through deliberations of committee meetings of the
+  Agency of Natural Resources and Energy, the officials said.
+      They said MITI will also review the breakdown of energy
+  supply sources, including oil, nuclear, coal and natural gas.
+      Nuclear energy provided the bulk of Japan's electric power
+  in the fiscal year ended March 31, supplying an estimated 27
+  pct on a kilowatt/hour basis, followed by oil (23 pct) and
+  liquefied natural gas (21 pct), they noted.
+  
+
+","{'input_ids': [0, 863, 591, 1889, 3842, 4979, 846, 18819, 34128, 12, 7831, 448, 13245, 2076, 21661, 33474, 5945, 20685, 25014, 5433, 50118, 1437, 20, 2803, 9, 1016, 4466, 8, 50118, 1437, 5354, 36, 36548, 100, 43, 40, 19721, 63, 251, 12, 1279, 1007, 1787, 73, 15509, 50118, 1437, 3839, 30, 830, 7, 972, 10, 1914, 29407, 10082, 11, 2898, 50118, 1437, 1007, 1077, 6, 3158, 503, 26, 4, 50118, 1437, 1437, 1437, 1437, 1437, 20124, 100, 16, 421, 7, 795, 5, 18144, 13, 2270, 1007, 50118, 1437, 4217, 11, 5, 76, 3788, 7, 21903, 475, 8502, 12868, 20726, 1535, 36, 16291, 43, 31, 5594, 50118, 1437, 475, 8502, 6, 51, 26, 4, 50118, 1437, 1437, 1437, 1437, 1437, 20, 568, 3905, 5, 17837, 9, 9825, 1022, 11, 50118, 1437, 2898, 539, 511, 5, 1430, 11, 5, 923, 9, 5, 4796, 50118, 1437, 8, 10, 2991, 11, 1897, 3459, 476, 1077, 4, 50118, 1437, 1437, 1437, 1437, 1437, 20124, 100, 16, 1884, 7, 173, 66, 10, 7692, 1007, 1787, 73, 15509, 50118, 1437, 3839, 149, 21727, 9, 1540, 2891, 9, 5, 50118, 1437, 3131, 9, 7278, 5187, 8, 2169, 6, 5, 503, 26, 4, 50118, 1437, 1437, 1437, 1437, 1437, 252, 26, 20124, 100, 40, 67, 1551, 5, 9336, 9, 1007, 50118, 1437, 1787, 1715, 6, 217, 681, 6, 1748, 6, 4051, 8, 1632, 1123, 4, 50118, 1437, 1437, 1437, 1437, 1437, 16909, 1007, 1286, 5, 8533, 9, 1429, 18, 3459, 476, 50118, 1437, 11, 5, 2358, 76, 1249, 494, 1105, 6, 18866, 41, 2319, 974, 50118, 1437, 181, 3894, 15, 10, 12868, 1722, 2611, 73, 4509, 1453, 6, 1432, 30, 681, 36, 1922, 181, 3894, 43, 8, 50118, 1437, 23321, 4550, 2550, 1632, 1123, 36, 2146, 181, 3894, 238, 51, 1581, 4, 50118, 1437, 1437, 50140, 2], 'attention_mask': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}", Japan to revise long-term energy supply/demand outlook by August to meet a forecast downtrend in Japanese energy demand . Decision follows emergence of structural changes in Japanese industry following the rise in the value of the yen .
+2,1,"THAI TRADE DEFICIT WIDENS IN FIRST QUARTER
+  Thailand's trade deficit widened to 4.5
+  billion baht in the first quarter of 1987 from 2.1 billion a
+  year ago, the Business Economics Department said.
+      It said Janunary/March imports rose to 65.1 billion baht
+  from 58.7 billion. Thailand's improved business climate this
+  year resulted in a 27 pct increase in imports of raw materials
+  and semi-finished products.
+      The country's oil import bill, however, fell 23 pct in the
+  first quarter due to lower oil prices.
+      The department said first quarter exports expanded to 60.6
+  billion baht from 56.6 billion.
+      Export growth was smaller than expected due to lower
+  earnings from many key commodities including rice whose
+  earnings declined 18 pct, maize 66 pct, sugar 45 pct, tin 26
+  pct and canned pineapples seven pct.
+      Products registering high export growth were jewellery up
+  64 pct, clothing 57 pct and rubber 35 pct.
+  
+
+","{'input_ids': [0, 3732, 15238, 5758, 15197, 36622, 2371, 2068, 305, 2688, 12743, 2808, 25746, 16944, 2747, 7831, 50118, 1437, 6547, 18, 721, 3781, 23398, 7, 204, 4, 245, 50118, 1437, 325, 741, 895, 90, 11, 5, 78, 297, 9, 11735, 31, 132, 4, 134, 325, 10, 50118, 1437, 76, 536, 6, 5, 2090, 14904, 641, 26, 4, 50118, 1437, 1437, 1437, 1437, 1437, 85, 26, 1133, 879, 1766, 73, 11770, 5058, 1458, 7, 3620, 4, 134, 325, 741, 895, 90, 50118, 1437, 31, 4893, 4, 406, 325, 4, 6547, 18, 2782, 265, 2147, 42, 50118, 1437, 76, 4596, 11, 10, 974, 181, 3894, 712, 11, 5058, 9, 6087, 3183, 50118, 1437, 8, 4126, 12, 40544, 785, 4, 50118, 1437, 1437, 1437, 1437, 1437, 20, 247, 18, 681, 6595, 1087, 6, 959, 6, 1064, 883, 181, 3894, 11, 5, 50118, 1437, 78, 297, 528, 7, 795, 681, 850, 4, 50118, 1437, 1437, 1437, 1437, 1437, 20, 1494, 26, 78, 297, 4302, 4939, 7, 1191, 4, 401, 50118, 1437, 325, 741, 895, 90, 31, 4772, 4, 401, 325, 4, 50118, 1437, 1437, 1437, 1437, 1437, 21916, 434, 21, 2735, 87, 421, 528, 7, 795, 50118, 1437, 1107, 31, 171, 762, 9990, 217, 7666, 1060, 50118, 1437, 1107, 1981, 504, 181, 3894, 6, 28380, 5138, 181, 3894, 6, 4696, 2248, 181, 3894, 6, 12899, 973, 50118, 1437, 181, 3894, 8, 24623, 22716, 3340, 1634, 707, 181, 3894, 4, 50118, 1437, 1437, 1437, 1437, 1437, 9467, 18446, 239, 5376, 434, 58, 14917, 16811, 62, 50118, 1437, 4430, 181, 3894, 6, 5296, 4981, 181, 3894, 8, 11283, 1718, 181, 3894, 4, 50118, 1437, 1437, 50140, 2], 'attention_mask': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}"," Thailand's trade deficit widens to 4.5.5p baht in first quarter of 1987 from 2.1p billion a year ago . Janunary/March imports rose to 65.1b from 58.7pbn, up 27pbn from 58pbn a year earlier ."

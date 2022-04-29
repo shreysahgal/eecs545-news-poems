@@ -1,5 +1,5 @@
 # EECS 545 Final Project: Poetic Press
-## Shrey Prakash Sahgal, Soo Hyun Ryu, Brandon Hardy, Chayce Baldwin
+Shrey Prakash Sahgal, Soo Hyun Ryu, Brandon Hardy, Chayce Baldwin
 {shreyps,soohyunr,bkhardy,cbwin}@umich.edu
 
 ## Abstract

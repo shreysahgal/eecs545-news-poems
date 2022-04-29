@@ -1,6 +1,6 @@
 # EECS 545 Final Project: Poetic Press
 Shrey Prakash Sahgal, Soo Hyun Ryu, Brandon Hardy, Chayce Baldwin <br>
-{shreyps,soohyunr,bkhardy,cbwin}@umich.edu
+{shreyps, soohyunr, bkhardy, cbwin}@umich.edu
 
 ## Abstract
 Can the news be poetic? In this project, we aim to use machine learning approaches to transpose news articles into a poetic style while preserving the semantic meaning of the original text.
